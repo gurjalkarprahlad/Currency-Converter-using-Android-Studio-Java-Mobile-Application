@@ -34,10 +34,6 @@ CurrencyConverter/
 How to Run
 Clone the Repository
 
-bash
-Copy code
-git clone https://github.com/your-username/currency-converter.git
-cd currency-converter
 Open the Project in Android Studio
 
 Open Android Studio, click on "Open an existing Android Studio project", and select the currency-converter directory.

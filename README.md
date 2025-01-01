@@ -10,26 +10,7 @@ Displays the conversion result on the screen.
 Requirements
 Android Studio
 An Android device or emulator with API level 16 or above
-Project Structure
-css
-Copy code
-CurrencyConverter/
-│
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/example/currencyconverter/
-│   │   │   │   └── MainActivity.java
-│   │   │   ├── res/
-│   │   │   │   ├── layout/
-│   │   │   │   │   └── activity_main.xml
-│   │   │   │   ├── values/
-│   │   │   │   │   └── values.xml
-│   │   │   │   ├── AndroidManifest.xml
-│   ├── build.gradle
-│   ├── proguard-rules.pro
-├── build.gradle
-└── settings.gradle
+
 
 How to Run
 Clone the Repository
